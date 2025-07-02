@@ -15,7 +15,7 @@
 **Software Developer**  
 Building blazing‑fast, SEO‑first web apps with Next.js, React & TypeScript.
 
-- 🔭 I’m currently working on a **Server‑Side Rendered educational blog platform**  
+- 🔭 I’m currently working on a **Server‑Side Rendered**  
 - 🌱 I’m learning advanced **CI/CD pipelines**, **AWS** deployments, and **DevOps**  
 - 💬 Ask me about **Next.js**, **Firebase Auth**, **Tailwind CSS**, or **MongoDB**  
 - 📫 How to reach me: [akshitkumardhaka99@gmail.com](mailto:akshitkumardhaka99@gmail.com)  
