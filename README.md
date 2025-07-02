@@ -1,9 +1,6 @@
 <!-- PROFILE BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkshitKdhaka&color=brightgreen" alt="Profile views"/>
-  <a href="https://github.com/AkshitKdhaka">
-    <img src="https://img.shields.io/github/followers/AkshitKdhaka?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
   <a href="https://linkedin.com/in/akshit-kumar-dhaka/">
     <img src="https://img.shields.io/badge/LinkedIn-AkshitKumarDhaka-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
