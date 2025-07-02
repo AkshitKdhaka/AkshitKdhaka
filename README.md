@@ -1,54 +1,77 @@
-<!-- PROFILE BADGES -->
+<!--
+  Replace the URLs below with your own if you change usernames or icon sources.
+-->
+
+<h1 align="center">👋 Hi, I’m Akshit Kumar Dhaka</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshitKdhaka&color=brightgreen" alt="Profile views"/>
+  A passionate Software Developer specializing in modern web technologies and robust, scalable applications.
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/AkshitKdhaka" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshit-kumar-dhaka/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Dhaka_Akshit99" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:akshitkumardhaka99@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img align="center" alt="HTML5"      title="HTML5"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"      width="40" height="40"/>
+  <img align="center" alt="CSS3"       title="CSS3"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"        width="40" height="40"/>
+  <img align="center" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img align="center" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+  <!-- Frameworks & Libraries -->
+  <img align="center" alt="Next.js"    title="Next.js"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"         width="40" height="40"/>
+  <img align="center" alt="React"      title="React"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"           width="40" height="40"/>
+  <img align="center" alt="Tailwind"   title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img align="center" alt="MongoDB"    title="MongoDB"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"       width="40" height="40"/>
+  <img align="center" alt="MySQL"      title="MySQL"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"             width="40" height="40"/>
+
+  <!-- Tools & CI/CD -->
+  <img align="center" alt="Git"        title="Git"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                   width="40" height="40"/>
+  <img align="center" alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" width="98" height="40"/>
+  <img align="center" alt="SEO"        title="SEO Best Practices" src="https://img.shields.io/badge/SEO-34A853?logo=google&logoColor=white"        width="98" height="40"/>
+</p>
+
+---
+
+> “Clean code always looks like it was written by someone who cares.”  
+> — Michael Feathers
+
+---
+
+<p align="center">
   <a href="https://github.com/AkshitKdhaka">
-    <img src="https://img.shields.io/github/followers/AkshitKdhaka?label=Follow&style=social" alt="GitHub Followers"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitKdhaka&layout=compact&theme=radical" />
   </a>
-  <a href="https://linkedin.com/in/akshit-kumar-dhaka/">
-    <img src="https://img.shields.io/badge/LinkedIn-AkshitKumarDhaka-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=AkshitKdhaka99">
-    <img src="https://img.shields.io/twitter/follow/AkshitKdhaka99?style=social" alt="Twitter Follow"/>
+  &nbsp;
+  <a href="https://github.com/AkshitKdhaka">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AkshitKdhaka&show_icons=true&theme=radical" />
   </a>
 </p>
 
----
-
-## 👋 Hi, I’m Akshit Kumar Dhaka
-**Software Developer (SDE‑1)**  
-Building blazing‑fast, SEO‑first web apps with Next.js, React & TypeScript.
-
-- 🔭 I’m currently working on a **Server‑Side Rendered educational blog platform**  
-- 🌱 I’m learning advanced **CI/CD pipelines**, **AWS** deployments, and **DevOps**  
-- 💬 Ask me about **Next.js**, **Firebase Auth**, **Tailwind CSS**, or **MongoDB**  
-- 📫 How to reach me: [akshitkumardhaka99@gmail.com](mailto:akshitkumardhaka99@gmail.com)  
-- ⚡ Fun fact: I once boosted Core Web Vitals by 30% in a month!
-
----
-
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <img alt="HTML5"     src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img alt="CSS3"      src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img alt="Next.js"    src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  <img alt="React"      src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img alt="Tailwind"   src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white"/>
-  <img alt="MongoDB"    src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-003545?logo=mysql&logoColor=white"/>
-  <img alt="AWS"        src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
-</div>
-
----
-
-### 📫 Let’s Connect
-<p align="center">
-  <a href="https://github.com/AkshitKdhaka"><img src="https://img.shields.io/badge/GitHub-AkshitKdhaka-181717?logo=github"/></a>
-  <a href="https://www.linkedin.com/in/akshit-kumar-dhaka/"><img src="https://img.shields.io/badge/LinkedIn-Akshit--Kumar--Dhaka-blue?logo=linkedin"/></a>
-  <a href="mailto:akshitkumardhaka99@gmail.com"><img src="https://img.shields.io/badge/Email-akshitkumardhaka99@gmail.com-red?logo=gmail"/></a>
-</p>
 
 
 <!---
