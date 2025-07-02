@@ -15,7 +15,7 @@
 ---
 
 ## 👋 Hi, I’m Akshit Kumar Dhaka
-**Software Developer (SDE‑1) @ Genius Labs Noida**  
+**Software Developer**  
 Building blazing‑fast, SEO‑first web apps with Next.js, React & TypeScript.
 
 - 🔭 I’m currently working on a **Server‑Side Rendered educational blog platform**  
